@@ -12,7 +12,7 @@ console.log("process.argv[1]: ",process.argv[1])
 console.log("process.argv[2]: ",process.argv[2])
 
 //when we type in CMD 
-//node first-hello.js explor
+//node first-hello.js explore
 
 // #OUTPUT
 
